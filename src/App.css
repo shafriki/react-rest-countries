@@ -4,3 +4,10 @@
   padding: 2rem;
 }
 
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 27px;
+}
