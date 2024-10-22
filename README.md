@@ -5,4 +5,4 @@ created a simple React project utilizing props, components, useState, and useEff
 
 
 ## Live Link
-[Click here to view live project](shafriki-react-world.surge.sh)
+[Click here to view live project](https://shafriki-react-world.surge.sh/)
